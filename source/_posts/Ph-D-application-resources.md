@@ -13,6 +13,7 @@ This is a resource pool containing information about applying Ph.D for psycholog
 >* From Kate Nussenbaum's website: [Applying to psychology Ph.D. programs](https://www.katenuss.com/advice/applying_to_phd/)
 >* From the Vision and Memory Lab: [Graduate school FAQ](https://docs.google.com/document/d/1m1Z8zGJZfAjBeIABYDdkPNmP0r82b-NNKCgAz8yeokQ/edit)
 >* From Lucy's Blogs: [All About PhD Applications](https://lucyblogs.wordpress.com/2018/08/02/all-about-phd-applications/#three)
+>* From Jamil Zaki: [Zaki_gradApp_guide](https://www.dropbox.com/s/jq8rzfsgrcxmhlg/zaki_gradApp_guide.pdf?dl=0)
 
 &nbsp;
 

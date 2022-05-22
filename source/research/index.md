@@ -1,31 +1,54 @@
 ---
-title: Research
-date: 2021-06-03 17:07:25
+title: 
+date: 
 ---
 
 # Research Interests
 ### General areas
->* ⭐ **Topics**: long-term memory, working memory, cognitive control, goal-directed behavior
->* 🔑**Keywords**: cognitive flexibility, adaptive distortion, representational transformation, dynamic interaction, prefrontal circuits, cortico-hippocampal interaction
+>* **Topics**: attention, perception, working memory, long-term memory, decision making
+>* **Keywords**: neural representation, neural dynamics, distributed neural network, cognitive flexibility, goal-directed behavior
 
-### Specific Research Questions
->* How do we strategically control what to remember and what to forget?
->* How do the prefrontal circuits interact with the medial temporal lobe/hippocampus?
->* How do we reformat our memory representations to facilitate goal-directed behavior?
->* How does the brain give rise to the representational transformation in terms of different goals?
+
+### Research Questions
+ 
+>* How do our brains form working memory representations?
+
+WM can maintain a stable representation in our mind without sensory input for a short time. Importantly, WM representation can be reformatted in terms of different goals. I am quite interested in how we transform perceptual representations into WM representations and how they change in service of behavioral goals? What is the nature of WM representation? How do different brain regions and distributed neural networks contribute to it?
+
+
+&nbsp;
+
+>* How do our brains track multiple goals within working memory?
+
+With resource constrain, WM can hold limited information online. However, in complex real life, we always have multiple goals to achieve. I am interested in how our brains track multiple goals and prioritize different goals at different time? How can we flexibly control information online and offline? How does WM coordinate different goals and guide our decisions?
+
+
+&nbsp;
+
+>* How does past experience interact with current working memory?
+
+WM serves as a bridge between past, current, and future. I am interested in how learning impacts the current representations of WM and how neural dynamics during WM shape the formation of lasting memories. How does long-term memory asist WM to guide our current behaviors? How do we coordinate conflicts between WM and long-term memory.
+
 
 
 &nbsp;
 
 # Research Methods
->* 🙋‍♀️ Behavioral experiments: Psychophysics, eye-tracking
->* 💻 Computational modeling: Bayesian modeling, Machine learning
->* 🧠 Neuroscience: EEG, fMRI
+>* 🙋‍♀️ Behavioral experiments: psychophysics, eye-tracking
+>* 🧠 Neuroscience: EEG/ERP, fMRI(MVPA)
+>* 💻 Computational modeling: machine learning, Bayesian modeling
 
 &nbsp;
 
 # Publications
-**Duan, Z**., Ye, T., Poggi, A., & Ding, X. (2020). Gaze towards my choice: Noneconomic social interaction changes interpersonal trust only with positive feedback. *Psychonomic Bulletin & Review*, 27, 1362-1373. https://doi.org/10.3758/s13423-020-01785-w
+**Duan, Z**., Ye, T., Poggi, A., & Ding, X. (2020). Gaze towards my choice: Noneconomic social interaction changes interpersonal trust only with positive feedback. *Psychonomic Bulletin & Review, 27*, 1362-1373. https://doi.org/10.3758/s13423-020-01785-w
+
+**Duan, Z**, Song, X., Shui, R., Zhou, J., Shen, M., & Ding, X. (2020). Visual Working Memory Organizes Functional Related Objects beyond the Spatiotemporal Limit. *Journal of Vision, 20*(11), 172-172. https://doi.org/10.1167/jov.20.11.172 
+
+Ye, S., **Duan, Z**, Ye, T., & Ding, X. (2021). The face-dependency effect of gaze in working memory: Face context modulates memory performance of gaze. *Journal of Vision, 21*(9), 2197-2197. https://doi.org/10.1167/jov.21.9.2197 
+
+
+Wei, C., **Duan, Z**, Li, W., & Ding, X. (2021). Selectively maintaining object features within visual working memory. *Journal of Vision, 21*(9), 2288-2288. https://doi.org/10.1167/jov.21.9.2288 
 
 Huang, Y., Liu, Z., Ji, H., **Duan, Z**., Ling, H., Chen, J., & Ding, X. (2020). Attentional bias in methamphetamine users: a visual search task study. *Addiction Research & Theory*, 1-9. https://doi.org/10.1080/16066359.2019.1708905
 
@@ -34,16 +57,16 @@ Liu, Y., Yu, L., Fu, L., Li, W., **Duan, Z**., & Reichle, E. D. (2019). The effe
 &nbsp;
 
 ### Preprints / Submitted Manuscripts
-**Duan, Z**., Shi, B., Ye, T., & Ding, X. (submitted). Two discoveries, one principle: using a two-stage Bayesian model to explain a dissociated working memory distraction effect.
+**Duan, Z**., Shi, B., Ye, T., & Ding, X. (under revision). Two discoveries, one principle: using a two-stage Bayesian model to explain a dissociated working memory distraction effect. *Journal of Experimental Psychology: General*
 
-Ye, S., **Duan, Z**., Ye, T., & Ding, X. (submitted). The face-dependency effect of gaze in working memory: Face context modulates memory performance of gaze.
+Ye, S., **Duan, Z**., Ye, T., & Ding, X. (submitted). The face-dependency effect of gaze in working memory: Face context modulates memory performance of gaze. *Cognition*
 
 Ding, X., **Duan, Z**., & Gao, Z. (manuscript completed). Selectively maintaining object features within visual working memory.
 
 &nbsp;
 
 ### Book Chapters
-Baron, R. A., Byrne, D., & Branscombe, N. R. (2019). Social Psychology (14th Eds). Zou, Z et al., translated (Chinese version). Independent translation of chapter 7.
+Baron, R. A., Byrne, D., & Branscombe, N. R. (2019). *Social Psychology* (14th Eds). Zou, Z et al., translated (Chinese version). Independent translation of chapter 7.
 
 &nbsp;
 

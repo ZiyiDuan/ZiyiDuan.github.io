@@ -104,4 +104,4 @@ theme: hexo-theme-Chic
 deploy:
   type: git
   repository: git@github.com:ZiyiDuan/ZiyiDuan.github.io.git
-  branch: master
+  branch: "master"

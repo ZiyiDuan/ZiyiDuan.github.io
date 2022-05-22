@@ -1,26 +1,47 @@
 ---
-title: About me
-date: 2021-05-31 10:06:22
+title: 
+date: 
 ---
 
-<div align=center>
-<img src="https://raw.githubusercontent.com/ZiyiDuan/ZiyiDuan.github.io/master/about/image/zoe.png" width="30%" /> 
+<div style="width:600px; font-size:15px; font-weight: 800; text-align: left">
+	<img src="image/me.png" align="left" width="42%" />
+	<font size="4" color="black">ZI-YI DUAN</font>
+	<br><font size="4" color="grey">Ph.D. Student
+		<br>Department of Psychology</font>
+	<br><font size="4" color="purple">New York University</font>
+	<br><a href = "mailto:zoeduan.sci@gmail.com">✉️ zoeduan.sci@gmail.com</a> 
 </div>
 
-Hey, I'm **Zoe**! Actually, my full name is Zi-Yi(紫逸) Duan (段), but you can choose whichever you like. I'm a second-year master's student in the Department of Psychology at Sun-Yat sen University. I define myself as an explorer in **cognitive psychology/neuroscience** in light of my strong interests in the human mind and brain. The question that attracts me most is **how do we remember the past and how do we reconstruct the present**? From perception to memory, how do we control what to remember and what to forget? How do we reconstruct our current memory in terms of different cognitive or emotional goals? How does the brain give rise to the dynamic interaction between what we have learned in the past, what we do at the present, and what we plan in the future? I believe my mission is to figure out how it works. 
+
+[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) | [Twitter](https://twitter.com/ZoeDuan2)
 
 
 &nbsp;
 
-I have extensive research interests in the human mind and brain, especially on the **human memory** 🧠 
->* Memory is not a passive storage, but an **active reconstruction**
->* Memory serves like a bridge connecting our **past**, **present**, and **future**
-
+Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), looking like a purple bunny in skateboarding. I am a prospective Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a full-time RA in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
 &nbsp;
 
-In my research, I'm fascinated by the **flexible** and **adaptive** nature of **human memory**. In particular, I want to figure out how do we strategically control what to remember and what to forget? How do we reformat our memory representations to facilitate goal-directed behavior? How does our cute, tiny brain give rise to the transformation of memory representations and reconstruct our current memory? I'm quite interested in both the congitive and neural mechanisms underlying these functions. I want to combine multiple methods to explore these interesting questions, including behavioral experiments, neuroimaging techniques (EEG, fMRI), and computational modeling. I'm open-minded about new techniques and excited about learning new skills! During my past experience, I used behavioral experiments, eye-tracking, and Bayesian modeling to investigate human mind. More recently, I gained the experience of combining machine-learning and neuroimaging techniques in **[LewPeaLab](https://www.lewpealab.org/)**. Please see my **[CV](https://docs.google.com/document/d/1TJdox0sSVh5sWYU8Gy4Vu34LtOKBbrN0pcIrhLedxMU/edit?usp=sharing)** and **[Research](/research)** to learn more.
+I am an explorer in **cognitive neuroscience**. I want to figure out the relationship between **brain-mind-behavior**, especially the visual and memory systems. In particular, I am interested in **Visual Working memory (VWM)**, who bridges the past, present, and future. Here are some fundamental questions of VWM that attracts me most.
+
+
+>* How do our brains form working memory representations?
+>* How do our brains track multiple goals within working memory?
+>* How does past experience interact with current working memory?
+
+
+
+My research combines psychophysics, eye-tracking, neuroimage (EEG, fMRI), machine learning, and computational modeling to explore these exciting research questions. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. I also want to contribute to clinical applications in mental and brain disorders. 
 
 &nbsp;
 
-Outside of research, I'm a boring gril...just kidding😄 I like taking photos, drawing pictures, watching videos, making healthy and delicious food, meeting new people, and trying new things! If you're interested in it, take a look at my **[Interests](/interests)**. I also like recording and sharing my experience and thoughts. **[Blog](/archives)** mainly help me, but may also help you in some way. Then, I'd be more than happy😊
+If you want to know more about my research, please see **[Research](/research)** and my **[CV](https://docs.google.com/document/d/1TJdox0sSVh5sWYU8Gy4Vu34LtOKBbrN0pcIrhLedxMU/edit?usp=sharing)**. 
+
+&nbsp;
+
+I also created a [WM journal club](/journalClub). I try to update with both recent and classical important papers in this field. Please <a href = "mailto: zoeduan.sci@gmail.com">reach out to me</a> if you have any questions or suggestions.
+
+
+
+
+
