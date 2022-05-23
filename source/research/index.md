@@ -6,7 +6,7 @@ date:
 # Research Interests
 ### General areas
 >* **Topics**: attention, perception, working memory, long-term memory, decision making
->* **Keywords**: neural representation, neural dynamics, distributed neural network, cognitive flexibility, goal-directed behavior
+>* **Keywords**: neural representation, neural dynamics, distributed neural network, cognitive flexibility, resource allocation, goal-directed behavior
 
 
 ### Research Questions
@@ -18,16 +18,17 @@ WM can maintain a stable representation in our mind without sensory input for a 
 
 &nbsp;
 
->* How do our brains track multiple goals within working memory?
+>* How do we allocate limited working memory resources to achieve behavioral goals?
 
-With resource constrain, WM can hold limited information online. However, in complex real life, we always have multiple goals to achieve. I am interested in how our brains track multiple goals and prioritize different goals at different time? How can we flexibly control information online and offline? How does WM coordinate different goals and guide our decisions?
+WM is well-known for its limited capacity. Prominent studies and models focus on the static storage limits. However, I am more interested in the dynamic resource allocation process. How do we use limited WM capacity to track multiple goals across different time? How can we flexibly control our internal attention and prioritize different aspects? What is the computational mechanism underlying resource allocation?
+
 
 
 &nbsp;
 
 >* How does past experience interact with current working memory?
 
-WM serves as a bridge between past, current, and future. I am interested in how learning impacts the current representations of WM and how neural dynamics during WM shape the formation of lasting memories. How does long-term memory asist WM to guide our current behaviors? How do we coordinate conflicts between WM and long-term memory.
+WM serves as a bridge between past, current, and future. I am also interested in how learning impacts the current representations of WM and how neural dynamics during WM shape the formation of lasting memories. How does long-term memory asist WM to guide our current behaviors? How do we coordinate conflicts between WM and long-term memory.
 
 
 

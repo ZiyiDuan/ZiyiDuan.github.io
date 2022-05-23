@@ -26,7 +26,7 @@ I am an explorer in **cognitive neuroscience**. I want to figure out the relatio
 
 
 >* How do our brains form working memory representations?
->* How do our brains track multiple goals within working memory?
+>* How do we allocate limited working memory resources to achieve behavioral goals?
 >* How does past experience interact with current working memory?
 
 
