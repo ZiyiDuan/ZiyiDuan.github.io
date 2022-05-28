@@ -20,15 +20,15 @@ WM can maintain a stable representation in our mind without sensory input for a 
 
 >* How do we allocate limited working memory resources to achieve behavioral goals?
 
-WM is well-known for its limited capacity. Prominent studies and models focus on the static storage limits. However, I am more interested in the dynamic resource allocation process. How do we use limited WM capacity to track multiple goals across different time? How can we flexibly control our internal attention and prioritize different aspects? What is the computational mechanism underlying resource allocation?
+WM is well-known for its limited capacity. Therefore, the challenge is how to select and prioritize part of internal representations within WM for optimally guiding behaviors? Except for the static storage limits, I am also interested in the dynamic resource allocation process. How do we use limited WM capacity to track multiple goals across different time? What is the computational mechanism underlying the resource allocation?
 
 
 
 &nbsp;
 
->* How does past experience interact with current working memory?
+>* How does working memory interact with long-term memories?
 
-WM serves as a bridge between past, current, and future. I am also interested in how learning impacts the current representations of WM and how neural dynamics during WM shape the formation of lasting memories. How does long-term memory asist WM to guide our current behaviors? How do we coordinate conflicts between WM and long-term memory.
+According to prominent WM models, WM is the end of sensory processing but the start of the permanent store of long-term memories. I am interested in how internal selective attention in WM impacts the formation of long-lasting memories and how learning impacts the current representations of WM? When both WM and long-term memory can guide our attention, how can we cooridinate the seemly redundancy?
 
 
 
