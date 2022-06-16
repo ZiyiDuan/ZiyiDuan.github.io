@@ -1,5 +1,5 @@
 ---
-title: JournalClub
+title: WM JournalClub
 date: 2021-10-08 17:07:54
 ---
 

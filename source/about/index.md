@@ -5,7 +5,7 @@ date:
 
 <div style="width:600px; font-size:15px; font-weight: 800; text-align: left">
 	<img src="image/me.png" align="left" width="42%" />
-	<font size="4" color="black">ZI-YI DUAN</font>
+	<font size="4" color="black">ZI-YI DUAN (Zoe)</font>
 	<br><font size="4" color="grey">Ph.D. Student
 		<br>Department of Psychology</font>
 	<br><font size="4" color="purple">New York University</font>
@@ -13,7 +13,7 @@ date:
 </div>
 
 
-[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) | [Twitter](https://twitter.com/ZoeDuan2)
+[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) | [Twitter](https://twitter.com/ZoeDuan2) | [Github](https://github.com/ZiyiDuan)
 
 
 &nbsp;
@@ -22,13 +22,12 @@ Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), looking like a purple bun
 
 &nbsp;
 
-I am an explorer in **cognitive neuroscience**. I want to figure out the relationship between **brain-mind-behavior**, especially the visual and memory systems. In particular, I am interested in **Visual Working memory (VWM)**, who bridges the past, present, and future. Here are some fundamental questions of VWM that attracts me most.
+I want to be a cognitive neuroscientist as I am interested in the relationship between **brain-mind-behavior**. In particular, I am interested in **working memory (WM)**, a capacity-limited cognitive system, but with powerful functions. Here are some fundamental questions of WM that attracts me most.
 
 
 >* How do our brains form working memory representations?
->* How do we allocate limited working memory resources to achieve behavioral goals?
->* How does working memory interact with long-term memories?
-
+>* How do we allocate limited working memory resources?
+>* How does working memory guide our behaviors?
 
 
 My research combines psychophysics, eye-tracking, neuroimage (EEG, fMRI), machine learning, and computational modeling to explore these exciting research questions. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. I also want to contribute to clinical applications in mental and brain disorders. 
@@ -39,7 +38,9 @@ If you want to know more about my research, please see **[Research](/research)**
 
 &nbsp;
 
-I also created a [WM journal club](/journalClub). I try to update with both recent and classical important papers in this field. Please <a href = "mailto: zoeduan.sci@gmail.com">reach out to me</a> if you have any questions or suggestions.
+I have created a [WM journal club](/journalClub) and try to update with both recent and classical important papers in this field. I have also put together some useful [resources](/archives), including tips for Ph.D. application, programing, statistics, computational modeling, etc.
+
+Please <a href = "mailto: zoeduan.sci@gmail.com">reach out to me</a> if you have any questions or suggestions.
 
 
 

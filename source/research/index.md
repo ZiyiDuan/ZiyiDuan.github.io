@@ -5,7 +5,7 @@ date:
 
 # Research Interests
 ### General areas
->* **Topics**: attention, perception, working memory, long-term memory, decision making
+>* **Topics**: attention, working memory, cognitive control, consciousness, decision making
 >* **Keywords**: neural representation, neural dynamics, distributed neural network, cognitive flexibility, resource allocation, goal-directed behavior
 
 
@@ -18,7 +18,7 @@ WM can maintain a stable representation in our mind without sensory input for a 
 
 &nbsp;
 
->* How do we allocate limited working memory resources to achieve behavioral goals?
+>* How do we allocate limited working memory resources?
 
 WM is well-known for its limited capacity. Therefore, the challenge is how to select and prioritize part of internal representations within WM for optimally guiding behaviors? Except for the static storage limits, I am also interested in the dynamic resource allocation process. How do we use limited WM capacity to track multiple goals across different time? What is the computational mechanism underlying the resource allocation?
 
@@ -26,7 +26,7 @@ WM is well-known for its limited capacity. Therefore, the challenge is how to se
 
 &nbsp;
 
->* How does working memory interact with long-term memories?
+>* How does working memory guide our behaviors?
 
 According to prominent WM models, WM is the end of sensory processing but the start of the permanent store of long-term memories. I am interested in how internal selective attention in WM impacts the formation of long-lasting memories and how learning impacts the current representations of WM? When both WM and long-term memory can guide our attention, how can we cooridinate the seemly redundancy?
 
