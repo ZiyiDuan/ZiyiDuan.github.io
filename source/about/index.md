@@ -26,8 +26,7 @@ I want to be a cognitive neuroscientist as I am interested in the relationship b
 
 
 >* How do our brains form working memory representations?
->* How do we allocate limited working memory resources?
->* How does working memory guide our behaviors?
+>* How do we use working memory to guide our behaviors?
 
 
 My research combines psychophysics, eye-tracking, neuroimage (EEG, fMRI), machine learning, and computational modeling to explore these exciting research questions. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. I also want to contribute to clinical applications in mental and brain disorders. 

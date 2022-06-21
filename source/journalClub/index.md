@@ -31,14 +31,19 @@ Wang, X. J. (2021). 50 years of mnemonic persistent activity: quo vadis?. *Trend
 
 ### Visuo-spatial working memory
 
+Brincat, S. L., Donoghue, J. A., Mahnke, M. K., Kornblith, S., Lundqvist, M., & Miller, E. K. (2021). Interhemispheric transfer of working memories. *Neuron, 109*(6), 1055-1066.e4. [[PDF]](https://doi.org/10.1016/j.neuron.2021.01.016)
+
 Henderson, M., Rademaker, R. L., & Serences, J. T. (2022). Flexible utilization of spatial- and motor-based codes for the storage of visuo-spatial information. *eLife* 11:e75688. [[PDF]](https://doi.org/10.7554/eLife.75688)
+
+Kwak, Y., & Curtis, C. E. (2022). Unveiling the abstract format of mnemonic representations. *Neuron*. [[PDF]](https://doi.org/10.1016/j.neuron.2022.03.016)
+
 
 Li HH, Sprague TC, Yoo A, Ma WJ, Curtis CE (2021) Joint representation of working memory and uncertainty in human cortex. *Neuron, 109*, 1-14. [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S089662732100619X)
 
 ### WM + Attention 
 
+Ede, F. van, & Nobre, A. C. (n.d.). Turning attention inside out: how working memory serves behavior. Preprint. [[PDF]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4082572)
 
-### WM + long-term memory
 
 
 

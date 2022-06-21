@@ -38,3 +38,13 @@ This is a resource pool containing information about applying Ph.D for psycholog
 >* [On the Art of Selecting a Graduate Program](https://www.insidehighered.com/blogs/gradhacker/art-selecting-graduate-program)
 >* [Applying for a Ph.D.? These 10 tips can help you succeed](https://www.sciencemag.org/careers/2018/09/applying-phd-these-10-tips-can-help-you-succeed)
 >* [To ace your Ph.D. program interviews](https://www.sciencemag.org/careers/2019/02/ace-your-phd-program-interviews-prepare-answer-and-ask-these-key-questions)
+
+
+# Preparation programs
+>* [Harvard P-PREP](https://sites.google.com/view/p-prep2021/home?authuser=0)
+>* [Application Statement Feedback Program](https://www.asfp.io/)
+
+
+
+
+
