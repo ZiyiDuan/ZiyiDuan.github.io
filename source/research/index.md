@@ -5,7 +5,7 @@ date:
 
 # Research Interests
 ### General areas
->* **Topics**: working memory, attention, perception, cognitive control, decision making
+>* **Topics**: attention, working memory, long-term memory, cognitive control, decision making
 >* **Keywords**: neural representation, neural dynamics, distributed neural network, cognitive flexibility, resource allocation, goal-directed behavior
 
 
@@ -13,16 +13,14 @@ date:
  
 >* How do our brains form working memory representations?
 
-WM can maintain a stable representation in our mind without sensory input for a short time. Importantly, WM representation can be reformatted in terms of different goals. I am quite interested in how we transform perceptual representations into WM representations and how they change in service of behavioral goals? What is the nature of WM representation? How do different brain regions and distributed neural networks contribute to it?
+WM can maintain a stable representation in our mind without sensory input for a short time. Importantly, WM representation can be reformatted in terms of different goals. I am quite interested in how we transform perceptual representations into WM representations and how they change in service of behavioral goals? How is the goal-directed reformatting implemented in the brain? What is the nature of WM representation? 
 
 
 &nbsp;
 
 >* How do we use working memory to guide our behaviors?
 
-WM is well-known for its limited capacity. Thus, the challenge is how to select and prioritize part of internal representations within WM for optimally guiding behaviors? I am particularly interested in the dynamic resource allocation process. How do neural networks contribute to tracking multiple goals across different time? What is the computational mechanism underlying the dynamic resource allocation?
-
-
+WM is well-known for its limited capacity. Thus, the challenge is how to select and prioritize part of internal representations within WM for optimally guiding behaviors? I am particularly interested in the dynamic resource allocation process. For example, how can we track multiple goals across different times? What is the computational mechanism underlying the dynamic resource allocation? Whether and how can we improve our WM abilities and overcome its constraints?
 
 
 
