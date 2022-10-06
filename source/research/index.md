@@ -27,8 +27,8 @@ WM is well-known for its limited capacity. How do limitations of WM constrain ou
 
 # Research Methods
 >* 🙋‍♀️ Behavioral experiments: psychophysics, eye-tracking
->* 🧠 Neuroscience: EEG/ERP, fMRI(MVPA)
->* 💻 Computational modeling: machine learning, Bayesian modeling
+>* 🧠 Neuroscience: fMRI, EEG/ERP
+>* 💻 Computational modeling: neural network, machine learning, Bayesian modeling
 
 &nbsp;
 
