@@ -18,11 +18,11 @@ date:
 
 &nbsp;
 
-Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), looking like a purple bunny in skateboarding. I am a prospective Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a full-time RA in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
+Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), looking like a purple bunny in skateboarding. I am a Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
 &nbsp;
 
-I want to be a cognitive neuroscientist as I am interested in the relationship between **brain-mind-behavior**. In particular, I am interested in **working memory (WM)**, a capacity-limited cognitive system, but with powerful functions. Here are some fundamental questions of WM that attracts me most.
+As a cognitive neuroscientist, I am interested in the relationship between **brain-mind-behavior**. In particular, I am interested in **working memory (WM)**, a capacity-limited but flexible cognitive system. Here are some fundamental questions of WM that attracts me most.
 
 
 >* How do our brains form working memory representations?
