@@ -9,6 +9,7 @@ date:
 	<br><font size="4" color="grey">Ph.D. Student
 		<br>Department of Psychology</font>
 	<br><font size="4" color="purple">New York University</font>
+	<br><a href = "mailto:ziyi.duan@nyu.edu">✉️ ziyi.duan@nyu.edu</a> 
 	<br><a href = "mailto:zoeduan.sci@gmail.com">✉️ zoeduan.sci@gmail.com</a> 
 </div>
 
@@ -18,7 +19,7 @@ date:
 
 &nbsp;
 
-Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), looking like a purple bunny in skateboarding. I am a Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
+Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), just like a purple bunny in a skateboarding. I am a Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
 &nbsp;
 
@@ -29,11 +30,11 @@ As a cognitive neuroscientist, I am interested in the relationship between **bra
 >* How do we use working memory to guide our behaviors?
 
 
-My research combines psychophysics, eye-tracking, neuroimage (EEG, fMRI), machine learning, and computational modeling to explore these exciting research questions. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. I also want to contribute to clinical applications in mental and brain disorders. 
+My research combines psychophysics, eye-tracking, neuroimage (fMRI, EEG), machine learning, and computational modeling. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. Moreover, I hope to contribute to clinical applications in mental and brain disorders. 
 
 &nbsp;
 
-If you want to know more about my research, please see **[Research](/research)** and my **[CV](https://docs.google.com/document/d/1TJdox0sSVh5sWYU8Gy4Vu34LtOKBbrN0pcIrhLedxMU/edit?usp=sharing)**. 
+If you want to know more about my research, please see **[Research](/research)** and my **[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing)**. 
 
 &nbsp;
 
