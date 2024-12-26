@@ -1,9 +1,9 @@
 ---
-title: 
+title: Ziyi "Zoe" Duan
 date: 
 ---
 
-<div style="width:600px; font-size:15px; font-weight: 800; text-align: left">
+<div style="width:400px; font-size:15px; font-weight: 600; text-align: left">
 	<img src="image/me.png" align="left" width="42%" />
 	<font size="4" color="black">ZI-YI DUAN (Zoe)</font>
 	<br><font size="4" color="grey">Ph.D. Student
@@ -21,7 +21,6 @@ date:
 
 Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), just like a purple bunny in a skateboarding. I am a Ph.D. student in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
-&nbsp;
 
 As a cognitive neuroscientist, I am interested in the relationship between **brain-mind-behavior**. In particular, I am interested in **working memory (WM)**, a capacity-limited but flexible cognitive system. Here are some fundamental questions of WM that attracts me most.
 
@@ -32,11 +31,9 @@ As a cognitive neuroscientist, I am interested in the relationship between **bra
 
 My research combines psychophysics, eye-tracking, neuroimage (fMRI, EEG), machine learning, and computational modeling. I especially enjoy foraging scientific innovation by designing new experimental approaches and combining up-to-date techniques. Moreover, I hope to contribute to clinical applications in mental and brain disorders. 
 
-&nbsp;
 
 If you want to know more about my research, please see **[Research](/research)** and my **[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing)**. 
 
-&nbsp;
 
 I have created a [WM journal club](/journalClub) and try to update with both recent and classical important papers in this field. I have also put together some useful [resources](/archives), including tips for Ph.D. application, programing, statistics, computational modeling, etc.
 
