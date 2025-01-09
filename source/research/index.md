@@ -4,24 +4,18 @@ date: 2024-12-25
 ---
 
 # Research Interests
-### General areas
->* **Topics**: Visual perception and working memory, mental imagery, goal-directed behavior, neural representation, neural dynamics
+>* In general, I'm interested in the neural and computational bases of forming **internal representations** in human minds and how they relate to natural behaviors.
 
-### Research Questions
- 
->* How do our brains form working memory representations?
+### Goal-directed neural representations 
+Working memory can temporaly maintain and manipulate information in service of future behaviors. How do neural activities change from sensory-like to action-oriented while maintaining persistent? How do high-level task goals change neural codes in low-level visual areas? Do dynamic changes in early visual cortices reflect the computations in high-level areas?
 
-What is the nature of WM representation? WM can maintain mental representations in our mind without sensory input for a short time. Importantly, WM representation can be reformatted in terms of different goals. I am quite interested in how we transform perceptual representations into WM representations and how they change in service of different behavioral goals? How is the goal-directed reformatting implemented in the brain? 
+### Representational uncertainty and decision making
+Internal representations are probablistic and always embeded with noise. What factors determine the representational uncertainty and how they are embeded in activities of neural populations? Whether human can subjectively be aware of the uncertainty and use it to guide decisions?
 
-
->* How do brain states change over time?
-
-Do our brains need persistant neural activity to maintain the representaion of WM? Whether the nerual representation of WM is stable or dynamic? How do our brains transform neural activities in preparation of future behaviors? 
+### Statistical learning and predictions
+Perception is a probablistic inference process. Humans learn the statistical regularities of the world and use them to guide daily behaviors without consicous awareness. How do brains implement statistical learning and make predictions? How do top-down feedback signals interact with bottom-up feedforward signals to serve these functions?
 
 
->* How does working memory allocate its limited resources?
-
-WM is well-known for its limited capacity. How does WM avoid interference when facing new sensory inputs? What is the relationship between interference and WM constraints? How do limitations of WM influence our decisions? How to select and prioritize part of internal representations within WM to optimize behaviors? 
 
 
 # Research Methods
