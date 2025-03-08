@@ -5,7 +5,9 @@ date: 2024-12-25
 
 # Journals
 
-**Duan, Z**., Curtis, C.E. (2024). Visual working memories are abstractions of percepts. eLife 13:RP94191 https://doi.org/10.7554/eLife.94191.3 
+**Duan, Z**., Evans, M. H., Lawrence, B., & Curtis, C. E. (2025). Effector general representation of movement goals in human frontal and parietal cortex. NeuroImage, 121124. https://doi.org/10.1016/j.neuroimage.2025.121124
+
+**Duan, Z**., Curtis, C.E. (2024). Visual working memories are abstractions of percepts. eLife 13:RP94191. https://doi.org/10.7554/eLife.94191.3 
 
 **Duan, Z**., Huang, Y., Shi, B., & Ding, X. (2023). Two discoveries, one principle: Using a two-stage Bayesian model to explain a dissociated working memory distraction effect. Journal of Experimental Psychology: General. https://psycnet.apa.org/doi/10.1037/xge0001358  
 
