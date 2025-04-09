@@ -2,7 +2,7 @@
 title: Scientific writing resources
 tags: research
 layout: post
-categories: Scientific writing
+categories: Science
 date: 2022-09-28 10:48:43
 ---
 
