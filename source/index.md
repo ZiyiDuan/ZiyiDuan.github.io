@@ -4,14 +4,23 @@ layout: page
 Date: False
 ---
 
-<div style="width:400px; font-size:15px; font-weight: 600; text-align: left">
-	<font size="4" color="black">ZI-YI DUAN (Zoe)</font>
-	<br><font size="4" color="grey">Ph.D. Candidate
-	<br><font size="4" color="purple">Department of Psychology</font>
-	<br><font size="4" color="purple">New York University</font>
-	<br><a href = "mailto:ziyi.duan@nyu.edu">✉️ ziyi.duan@nyu.edu</a> 
-	<br><a href = "mailto:zoeduan.sci@gmail.com">✉️ zoeduan.sci@gmail.com</a> 
+<div style="display: flex; align-items: flex-start; gap: 50px; width: 100%; max-width: 800px;">
+  <!-- Image block -->
+  <div>
+    {% image fancybox clear group:personal assets/images/about.jpg 300px 225px %}
+  </div>
+
+  <!-- Text block -->
+  <div style="font-size: 15px; font-weight: 600; text-align: left;">
+    <div style="font-size: 20px; color: black;">ZI-YI DUAN (Zoe)</div>
+    <div style="color: grey;">Ph.D. Candidate</div>
+    <div style="color: purple;">Department of Psychology</div>
+    <div style="color: purple;">New York University</div>
+    <div><a href="mailto:ziyi.duan@nyu.edu">✉️ ziyi.duan@nyu.edu</a></div>
+    <div><a href="mailto:zoeduan.sci@gmail.com">✉️ zoeduan.sci@gmail.com</a></div>
+  </div>
 </div>
+
 
 
 [CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) |[ResearchGate](https://www.researchgate.net/profile/Ziyi_Duan) | [Github](https://github.com/ZiyiDuan)| [Twitter](https://twitter.com/ZoeDuan2) | [LinkedIn](https://www.linkedin.com/in/zoe-duan-8a0049334/) 

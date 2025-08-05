@@ -1,12 +1,12 @@
 ---
 title: Working Memory Papers
 date: 2025-04-08 22:32:48
-tags: research
+tags: Working Memory
 layout: post
-categories: Science
+categories: Research
 ---
 
-Paper recommendations for working memory (mainly visual WM, sorry)
+Paper recommendations for working memory (mainly visual WM)
 
 ## Reviews
 

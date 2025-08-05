@@ -2,8 +2,8 @@
 title: Ph.D application resources
 date: 2021-06-14 12:00:11
 layout: post
-categories: Graduate school
-tags: PhD
+categories: Career
+tags: PhDs
 ---
 
 This is a resource pool containing information about applying Ph.D for psychology/cognitive neuroscience programs!

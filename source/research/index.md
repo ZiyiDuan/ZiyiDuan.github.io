@@ -1,5 +1,5 @@
 ---
-title: Research Brief
+title: Research
 Date: false
 ---
 
