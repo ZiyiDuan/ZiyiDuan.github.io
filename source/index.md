@@ -1,20 +1,20 @@
 ---
-title: Ziyi "Zoe" Duan
-date: 
+title: Home
+layout: page
+Date: False
 ---
 
 <div style="width:400px; font-size:15px; font-weight: 600; text-align: left">
-	<img src="image/me.png" align="left" width="42%" />
 	<font size="4" color="black">ZI-YI DUAN (Zoe)</font>
-	<br><font size="4" color="grey">Ph.D. Student
-		<br>Department of Psychology</font>
+	<br><font size="4" color="grey">Ph.D. Candidate
+	<br><font size="4" color="purple">Department of Psychology</font>
 	<br><font size="4" color="purple">New York University</font>
 	<br><a href = "mailto:ziyi.duan@nyu.edu">✉️ ziyi.duan@nyu.edu</a> 
 	<br><a href = "mailto:zoeduan.sci@gmail.com">✉️ zoeduan.sci@gmail.com</a> 
 </div>
 
 
-[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) | [Twitter](https://twitter.com/ZoeDuan2) | [Github](https://github.com/ZiyiDuan)
+[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) |[ResearchGate](https://www.researchgate.net/profile/Ziyi_Duan) | [Github](https://github.com/ZiyiDuan)| [Twitter](https://twitter.com/ZoeDuan2) | [LinkedIn](https://www.linkedin.com/in/zoe-duan-8a0049334/) 
 
 
 

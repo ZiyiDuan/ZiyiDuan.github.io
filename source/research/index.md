@@ -1,26 +1,38 @@
 ---
 title: Research Brief
-date: 2024-12-25 
+Date: false
 ---
 
-# Research Interests
->* In general, I'm interested in the neural and computational bases of forming **internal representations** in human minds and how they relate to natural behaviors.
+In general, I'm interested in the neural and computational bases of generating **internal representations** to guide human natural behaviors. My research focuses on **Working Memory(WM)**, a cognitive function used to maintain and manipulate information online. Here are some research questions that I am currently pursuing, with links to related projects.
 
-### Goal-directed neural representations 
-Working memory can temporaly maintain and manipulate information in service of future behaviors. How do neural activities change from sensory-like to action-oriented while maintaining persistent? How do high-level task goals change neural codes in low-level visual areas? Do dynamic changes in early visual cortices reflect the computations in high-level areas?
 
-### Representational uncertainty and decision making
-Internal representations are probablistic and always embeded with noise. What factors determine the representational uncertainty and how they are embeded in activities of neural populations? Whether human can subjectively be aware of the uncertainty and use it to guide decisions?
+### Goal-directed neural representations
+WM is essential for goal-directed behaviors. Even though there are many similarities between WM and sensory codes, WM formats can be more abstract and flexible, allowing them to meet different task demands. How do high-level task demands change neural codes in sensory areas? How do different brain regions (sensory and association cortex) interact to implement these functions?
 
-### Statistical learning and predictions
-Perception is a probablistic inference process. Humans learn the statistical regularities of the world and use them to guide daily behaviors without consicous awareness. How do brains implement statistical learning and make predictions? How do top-down feedback signals interact with bottom-up feedforward signals to serve these functions?
 
+>* Visual working memories are abstractions of percepts
+>* Putting visual working memory to work
+
+
+### Neural codes for action planning
+While maintaining the sensory information, brains need to transform neural activities from sensory codes to motor codes during motor planning. Do we have a domain-general planning system for different kinds of action planning? What are the fundamental differences between sensory and motor systems? In other words, what makes sensory areas sensory and what makes motor areas motor? How do they interact during the dynamic process?
+
+
+>* Effector general representation of movement goals in human frontal and parietal cortex
+>* Sensory codes in motor areas (ongoing)
+
+
+### Interactions between WM and LTM
+Different memory systems interact to assist natural behaviors. On the one hand, how do neural signals of WM predict their fates in long-term memories? On the other hand, how does prior knowledge affect the current formation of WM representations?
+
+
+>* Temporal expectation triggers removal of irrelevant information from working memory that leads to forgetting
 
 
 
 # Research Methods
 >* 🙋‍♀️ Behavioral experiments: psychophysics, eye-tracking
 >* 🧠 Neuroscience: fMRI, EEG
->* 💻 Computational modeling: machine learning, neural network, Bayesian modeling
+>* 💻 Computational modeling: machine learning, Bayesian modeling
 
 
