@@ -6,8 +6,9 @@ layout: post
 categories: Research
 ---
 
-Papers are arranged alphabetically by author's last name.
+Journal clubs of working memory. Papers are arranged alphabetically by author's last name.
 
+<!-- more -->
 ## Reviews
 
 Adam, K.C.S., Rademaker, R.L., and Serences, J.T. Evidence for, and challenges to, sensory recruitment models of visual working memory. [[PDF]](https://drive.google.com/file/d/1iLrWAEgZ0oDF3Kwcug9MlTi2HGbJdn4R/view)

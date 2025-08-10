@@ -8,7 +8,7 @@ tags: PhDs
 
 This is a resource pool containing information about applying Ph.D for psychology/cognitive neuroscience programs!
 
-
+<!-- more -->
 ## Highlight resources
 >* From the Sokol-Hessner Lab: [How Applying to Graduate School Works](https://www.sokolhessnerlab.com/howapplyingworks/#thegoal)
 >* From Kate Nussenbaum's website: [Applying to psychology Ph.D. programs](https://www.katenuss.com/advice/applying_to_phd/)
