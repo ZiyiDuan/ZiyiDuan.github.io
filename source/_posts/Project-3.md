@@ -1,6 +1,6 @@
 ---
 title: Putting working memory to work
-date: 2025-08-04 22:24:20
+date: 2025-08-04 22:00:00
 layout: post
 categories: Research
 tags: Working Memory

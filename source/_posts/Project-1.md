@@ -1,6 +1,6 @@
 ---
 title: Visual working memories are abstractions of percepts
-date: 2025-08-04 21:09:06
+date: 2025-08-04 20:00:00
 tags: Working Memory
 layout: post
 categories: Research
