@@ -23,7 +23,7 @@ Date: False
 
 
 
-[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=2H9meH0AAAAJ&hl=zh-CN) |[ResearchGate](https://www.researchgate.net/profile/Ziyi_Duan) | [Github](https://github.com/ZiyiDuan)| [Twitter](https://twitter.com/ZoeDuan2) | [LinkedIn](https://www.linkedin.com/in/zoe-duan-8a0049334/) 
+[CV](https://docs.google.com/document/d/1k58mSf4gRsOJBmFiCuKN0xaoHC--m2jIXktMbmoVUY0/edit?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=PBbEUyYAAAAJ&hl=en&oi=ao) |[ResearchGate](https://www.researchgate.net/profile/Ziyi_Duan) | [Github](https://github.com/ZiyiDuan)| [Twitter](https://twitter.com/ZoeDuan2) | [LinkedIn](https://www.linkedin.com/in/zoe-duan-8a0049334/) 
 
 
 
