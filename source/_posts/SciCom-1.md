@@ -36,6 +36,6 @@ What we found is that while those apertures do influence how neurons respond whe
 {% image fancybox clear group:paper Fig.png "Illustration of what you see vs. what you remember" %}
 <br>
 
-It turns out that what you remember in your mind is not a hard copy of the sensory input, my research shows. Instead, our mind selects, or abstracts, the simplest bits of information that are essential for our goal, such as remembering the orientation. Our finding helps to explain why our memories are not always accurate and can be biased based on our individuals purposes. That’s to say, if you want to share all the details of a painting, don’t forget to take a photo. Otherwise, you must be surprised how different the painting was in your memory when you visit it again next time.
+It turns out that what you remember in your mind is not a hard copy of the sensory input, my research shows. Instead, our mind selects, or abstracts, the simplest bits of information that are essential for our goal, such as remembering the orientation. Our finding helps to explain why our memories are not always accurate and can be biased based on our individuals purposes. That’s to say, if you want to share all the details of a painting, don’t forget to take a photo. Otherwise, you might be surprised by how different it looks from what you remembered the next time you see it.
 
 If you're interested in more details, check out the {% post_link Project-1 "Post" %} or the [Paper](https://doi.org/10.7554/eLife.94191.3)!
