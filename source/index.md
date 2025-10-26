@@ -29,9 +29,9 @@ Date: False
 
 Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), meaning a purple bunny riding a skateboarding. I am currently a Ph.D. candidate in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
- **Working memory** is a core cognitive function, which allows you to hold and manipulate the information in your mind to guide behavior in a flexible, context-dependent manner. My research focuses on understanding the formatting and transformations of **visual working memory** under different task demands, from sensory to mnemonic codes, and to motor plans. I enjoy combining multiple approaches and developing new techniques to tackle these questions. My current research approaches include psychophysics, neuroimaging (fMRI, EEG), eye-tracking, motion capture system, machine learning, and computational modeling. Here are the **[research projects](/research)** I'm currently pursuing.
+ **Working memory** is a core cognitive function, which allows you to hold and manipulate the information in your mind to guide behavior in a flexible, context-dependent manner. My research focuses on understanding the formatting and transformations of **visual working memory** under different task demands, from sensory to mnemonic codes, and to motor plans. I enjoy combining multiple approaches and developing new techniques to tackle these questions. My current research approaches include psychophysics, neuroimaging (fMRI, EEG), eye-tracking, motion capture system, machine learning, and computational modeling. Here are the **[research projects](/research)** I've been working on.
 
-Besides, I'm also interested in promoting science communication between scientists and the public. Please check out **[Blogs](/blog)** for my articles about the research I'm doing in more readable words!
+Besides, I'm also interested in promoting science communication between scientists and the public. Please check out **[Blogs](/blog)** for my writings!
 
 
 
