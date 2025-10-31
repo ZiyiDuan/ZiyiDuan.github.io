@@ -6,14 +6,10 @@ categories: Science Communication
 tags: Working Memory
 ---
 
-<p style="font-size: 80%; color: #999999;">
-Big thanks to <a href="https://casw.org/people/robin-lloyd/" target="_blank">Robin Lloyd</a>, who taught the Science Communication Workshop at NYU! I learned so much about how to share science with a general audience. I really value that experience and hope to keep up the habit of doing more science communication in the future. This is my first piece, with lots of help and feedback from Robin and my amazing classmates in the workshop.
-</p>
-
-
-<!-- more -->
 
 The last time you studied a painting in an art gallery or museum, you probably observed its textures, shapes, size, colors and/or vibrancy — basically a diverse array of its details and elements. By the time you get home and describe the painting to your family or roommate, you probably won’t be able to recall all its details. But that’s OK. You remember enough for your goal here, to share your excitement with someone else. What remains in your memory will be the most important piece of information that you want to convey. My research tries to peek behind the curtains to see **what’s going on in the brain when we form these selective memories**.
+
+<!-- more -->
 
 For example, let’s say you were impressed by the painting’s colors. The image in your mind a short time later typically would be primarily a collection of colors, but that collection would not be associated with specific objects from the painting. However, if you were impressed with the painting’s objects and shapes, your mind might retain those but render them only in black and white in your memory. Psychologists have noticed this trend across many individuals — our memory is selective in response to our primary goal.
 
@@ -39,3 +35,7 @@ What we found is that while those apertures do influence how neurons respond whe
 It turns out that what you remember in your mind is not a hard copy of the sensory input, my research shows. Instead, our mind selects, or abstracts, the simplest bits of information that are essential for our goal, such as remembering the orientation. Our finding helps to explain why our memories are not always accurate and can be biased based on our individual purposes. That’s to say, if you want to share all the details of a painting, don’t forget to take a photo. Otherwise, you might be surprised by how different it looks from what you remembered the next time you see it.
 
 If you're interested in more details, check out the {% post_link Project-1 "Post" %} or the [Paper](https://doi.org/10.7554/eLife.94191.3)!
+
+<p style="font-size: 80%; color: #999999;">
+Big thanks to <a href="https://casw.org/people/robin-lloyd/" target="_blank">Robin Lloyd</a>, who taught the Science Communication Workshop at NYU! I learned so much about how to share science with a general audience. I really value that experience and hope to keep up the habit of doing more science communication in the future. This is my first piece, with lots of help and feedback from Robin and my amazing classmates in the workshop.
+</p>

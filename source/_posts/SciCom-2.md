@@ -6,13 +6,9 @@ categories: Science Communication
 tags: Relationship
 ---
 
-<p style="font-size: 80%; color: #999999;">
-First advice essay based on my 5-year experience. Greatest thanks to <a href="https://casw.org/people/robin-lloyd/" target="_blank">Robin Lloyd</a>, who gave lots of helpful edits and the sweetest feedback to this piece. Although relationships are not my expertise, I hope my personal experience resonates with you and helps, even just a little bit.
-</p>
+Nearly five years ago, when my partner and I started our relationship, we were soon separated by an ocean. He went to Oxford while I was at NYU, pursuing a Ph.D. degree in psychology. The miles between us felt like a timer set to run out. We knew that we had to be realistic. We were cautious and worried about the long-distance challenge. Yet, here we are today, not just surviving, but thriving. I am both proud and humbled to say that we've built an emotionally and mentally connected relationship despite the difficulties of extremely limited time together. My situation might sound unique, but it has grown so common in academia that it has its own name—the *“two-body problem”*. If you're about to dive into a long-distance commitment with another academic and seek some practical advice, here are the principles that have kept our relationship solid.
 
 <!-- more -->
-
-Nearly five years ago, when my partner and I started our relationship, we were soon separated by an ocean. He went to Oxford while I was at NYU, pursuing a Ph.D. degree in psychology. The miles between us felt like a timer set to run out. We knew that we had to be realistic. We were cautious and worried about the long-distance challenge. Yet, here we are today, not just surviving, but thriving. I am both proud and humbled to say that we've built an emotionally and mentally connected relationship despite the difficulties of extremely limited time together. My situation might sound unique, but it has grown so common in academia that it has its own name—the *“two-body problem”*. If you're about to dive into a long-distance commitment with another academic and seek some practical advice, here are the principles that have kept our relationship solid.
 
 **Make Trust Your Cornerstone.** This precept should be first and foremost for any successful relationship, long-distance or not. Extend that trust not only to your partner but also to yourself. Even in inevitable times of doubt or conflict that arise from living far apart, you must believe that both of you want to maintain and honor the relationship, and remind yourself that the long distance is just temporary. Building this deep trust isn't a single action; it's the result of all the practical efforts you make.
 
@@ -27,4 +23,8 @@ Nearly five years ago, when my partner and I started our relationship, we were s
 A long-distance relationship is challenging, but it is not simply a waiting game. Rather, it's an act of constant building. By making trust your foundation, committing to intentional communication, finding ways to physically connect, and always aligning your futures, you transform the miles from a barrier into a meaningful test of your commitment. You are not sacrificing your relationship to distance; you are strengthening it in the process.
 
 >* Author Bio: Zoe Duan is a 4th-year PhD student in the Department of Psychology at New York University.
+
+<p style="font-size: 80%; color: #999999;">
+First advice essay based on my 5-year experience. Greatest thanks to <a href="https://casw.org/people/robin-lloyd/" target="_blank">Robin Lloyd</a>, who gave lots of helpful edits and the sweetest feedback to this piece. Although relationships are not my expertise, I hope my personal experience resonates with you and helps, even just a little bit.
+</p>
 
