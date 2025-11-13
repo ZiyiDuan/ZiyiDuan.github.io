@@ -27,11 +27,11 @@ Date: False
 
 
 
-Hi, I am Zoe! My Chinese name is Ziyi Duan(段紫逸), meaning a purple bunny riding a skateboarding. I am currently a Ph.D. candidate in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
+Hi, my name is Ziyi Duan(段紫逸), you can call me "zoe". I am currently a Ph.D. candidate in [ClaySpace Lab](https://www.clayspacelab.com/) in the Department of Psychology at New York University. Before that, I worked as a research assistant in [Lewis-Peacock Lab](https://www.lewpealab.org/home) at The University of Texas at Austin, and did my undergraduate and master work with [Dr. Xiaowei Ding](https://psy.sysu.edu.cn/teacher/719) at Sun Yat-sen University (China).
 
- **Working memory** is a core cognitive function, which allows you to hold and manipulate the information in your mind to guide behavior in a flexible, context-dependent manner. My research focuses on understanding the formatting and transformations of **visual working memory** under different task demands, from sensory to mnemonic codes, and to motor plans. I enjoy combining multiple approaches and developing new techniques to tackle these questions. My current research approaches include psychophysics, neuroimaging (fMRI, EEG), eye-tracking, motion capture system, machine learning, and computational modeling. Here are the **[research projects](/research)** I've been working on.
+How do we turn a thought into an action? My work focuses on this puzzle: how the brain translates abstract, high-level goals into concrete instructions for behavior. Specifically, I study **visual working memory**, examining how this mental workspace dynamically transforms information to serve a specific task goal — a process that spans from initial **sensory processing** to sustained **mnemonic coding**, and finally to the execution of **motor plans**. I tackle this using a set of tools, including neuroimaging approches (fMRI/EEG), psychophysics, eye-tracking, motion capture system, machine learning, and computational modeling. Here are the **[research projects](/research)** I've been working on.
 
-Besides, I'm also interested in promoting science communication between scientists and the public. Please check out **[Blogs](/blog)** for my writings!
+Beyond this core research, I am deeply interested in promoting science communication, working to bridge the gap between complex scientific findings and the public. I hope to foster broader understanding and engagement with cognitive neuroscience. You can check out my writings in **[Blogs](/blog)**.
 
 
 
