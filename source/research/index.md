@@ -3,7 +3,7 @@ title: Research
 Date: false
 ---
 
-My primary interest lies in the neural mechanisms that translate high-level goals into concrete instructions to guide behaviors. This is implemented by studying the formation and transformation of **visual working memory (WM)**. My research tracks the complete evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) based on the specific goal at hand. Here, I listed some research questions that I am currently pursuing.
+My primary interest lies in the mental and neural mechanisms that support goal-directed behaviors. This is implemented by studying the formation and transformation of **working memory (WM)**. My research tracks the complete evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) based on the specific goal at hand. Here, I listed some research questions that I am currently pursuing.
 
 
 ### Goal-directed WM Codes
@@ -23,7 +23,7 @@ A key challenge for the brain is maintaining sensory information while simultane
 
 
 ### Interactions between WM and LTM
-While WM offers the brain a limited, flexible workspace for immediate action, the vast capacity of long-term memory (LTM) stores learned regularities and prior knowledge. My research explores the critical bidirectional link between these two systems. Specifically, I investigate two central questions: How do neural signals of WM predict their fates in LTM? How do learned regularities and prior knowledge stored in LTM influence the current formation of WM representations?
+While WM offers the brain a limited, flexible workspace for immediate action, the vast capacity of long-term memory (LTM) stores learned regularities and prior knowledge. My research explores the critical bidirectional link between these two systems. Specifically, I investigate two central questions: How do neural signals of WM predict their fates in LTM? How do we retrieve information stored in LTM into the online workspace? 
 
 
 >* Temporal expectation triggers removal of irrelevant information from working memory that leads to forgetting
