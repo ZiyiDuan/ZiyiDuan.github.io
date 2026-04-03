@@ -3,7 +3,7 @@ title: Research
 Date: false
 ---
 
-My primary interest lies in the mental and neural mechanisms that support goal-directed behaviors. This is implemented by studying the formation and transformation of **working memory (WM)**. My research tracks the complete evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) based on the specific goal at hand. Here, I listed some research questions that I am currently pursuing.
+My primary interest lies in the mental and neural mechanisms that support goal-directed behaviors. This is implemented by studying the representation and transformation of **working memory (WM)**. My research tracks the complete evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) based on the specific goal at hand. Here are some research questions I am currently pursuing.
 
 
 ### Goal-directed WM Codes
