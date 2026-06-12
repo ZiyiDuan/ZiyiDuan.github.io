@@ -5,7 +5,7 @@ date: 2024-12-25
 
 # Journals
 
-Su, Z.\*, **Duan, Z**.\*, Yan, X., Lin, Z., & Ding, X. (2025). Event boundaries: Costs and benefits for memory. *Cognition*, 264, 106239. https://doi.org/10.1016/j.cognition.2025.106239 
+**Duan, Z**.\*, Su, Z.\*, Yan, X., Lin, Z., & Ding, X. (2025). Event boundaries: Costs and benefits for memory. *Cognition*, 264, 106239. https://doi.org/10.1016/j.cognition.2025.106239 
 \*Co–first authorship
 
 **Duan, Z**., Evans, M. H., Lawrence, B., & Curtis, C. E. (2025). Effector general representation of movement goals in human frontal and parietal cortex. *NeuroImage*, 121124. https://doi.org/10.1016/j.neuroimage.2025.121124
