@@ -3,7 +3,7 @@ title: Research
 Date: false
 ---
 
-My research focuses on the internal representation and transformation of **working memory (WM)** based on high-level goals. I use up-to-date neuroimaging techniques and computational tools to study the evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) to achieve a specific task goal. Here are some research questions I am currently pursuing.
+My research focuses on the internal representation and transformation of **working memory (WM)** based on high-level goals. I use neuroimaging techniques and computational tools to study the evolution of a visual signal, detailing how it is selected into WM (sensory codes), how it is flexibly maintained and transformed (mnemonic codes), and how it is ultimately prepared for movement (motor plans) to achieve a specific task goal. Here are some research questions I am currently pursuing.
 
 
 ### Goal-directed WM Codes
